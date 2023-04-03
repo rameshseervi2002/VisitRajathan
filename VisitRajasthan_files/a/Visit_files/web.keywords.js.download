@@ -1,0 +1,5 @@
+
+        window.$mediavine = window.$mediavine || {};
+        window.$mediavine.web = window.$mediavine.web || {};
+        window.$mediavine.web.keywords = {"status":"PROCESSED","sales_kw":"touropia travel guides,hotels,miami,best places,maryland,best areas,america,popular nickname,best neighborhoods,crystal clear waters,beautiful coastlines,ancient history,miniature,tumbledown buildings,olive trees","sales_cat":"653,150"};
+      
